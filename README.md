@@ -1,27 +1,23 @@
 # 🧠 TryHackMe Writeups
 
 <p align="center">
-  <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/tryhackme_logo_full.svg" width="400">
+  <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="400">
 </p>
 
 ## 📌 Sobre este repositorio
 
 Este repositorio contiene **writeups y procedimientos detallados** de máquinas resueltas en la plataforma TryHackMe.
 
-El objetivo es documentar **todo el proceso de resolución paso a paso**, incluyendo:
+Aquí documentaré el proceso completo de cada máquina, incluyendo:
 
 * 🔎 Reconocimiento
 * 🌐 Enumeración
 * 💥 Explotación
 * 🔐 Escalada de privilegios
+* 📜 Comandos utilizados
 * 🧠 Explicación de vulnerabilidades
-* 📜 Comandos utilizados durante el proceso
 
-Este repositorio funciona como:
-
-* 📚 Registro de aprendizaje en ciberseguridad
-* 🧪 Práctica de CTF y Pentesting
-* 📝 Documentación personal de máquinas resueltas
+El objetivo es **documentar mi aprendizaje en ciberseguridad y pentesting** mientras practico resolviendo máquinas tipo CTF.
 
 ---
 
@@ -30,14 +26,14 @@ Dentro de cada writeup se documenta:
 * Reconocimiento
 * Enumeración
 * Explotación
-* Escalada de privilegios
+* Privilege Escalation
 * Obtención de flags
 
 ---
 
 ## 🛠️ Herramientas utilizadas
 
-Algunas de las herramientas utilizadas durante la resolución de las máquinas:
+Algunas herramientas usadas durante la resolución de las máquinas:
 
 * Nmap
 * Gobuster
@@ -51,31 +47,28 @@ Algunas de las herramientas utilizadas durante la resolución de las máquinas:
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
-El objetivo de este repositorio es mejorar habilidades en:
+Este repositorio tiene como objetivo mejorar habilidades en:
 
 * Pentesting
-* Enumeración de servicios
 * Web exploitation
+* Enumeración de servicios
 * Privilege escalation en Linux
-* Metodología de resolución de CTF
+* Metodologías de CTF
 
 ---
 
 ## ⚠️ Disclaimer
 
-Este repositorio tiene fines **educativos únicamente**.
+Este repositorio es solo para **fines educativos**.
 
-Todas las máquinas fueron realizadas dentro de entornos controlados y legales en la plataforma TryHackMe.
+Todas las máquinas fueron realizadas en entornos controlados dentro de la plataforma TryHackMe.
 
 ---
 
 ## 👨‍💻 Autor
 
-Juanma Acosta
+**Juanma Acosta**
+
 Cybersecurity Student
-
----
-
-⭐ Si te sirve este repositorio, puedes darle **star**.
